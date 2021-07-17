@@ -16,8 +16,8 @@
 - [Dart Apprentice By Jonathan Sande](https://github.com/goldcoders/Flutter/blob/master/Dart%20Apprentice%20-%20By%20Jonathan%20Sande.pdf)
 - [Flutter Complete Reference by Alberto Miola](https://github.com/goldcoders/Flutter/blob/master/Flutter%20Complete%20Reference%20by%20Alberto%20Miola.pdf)
 - [Flutter Apprentice by the raywenderlich Tutorial Team](https://github.com/goldcoders/Flutter/blob/master/Flutter%20Apprentice.pdf)
-- [Pragmatic Flutter by Prinyaka Tyagi](https://github.com/goldcoders/Flutter/blob/master/Pragmatic%20Flutter.pdf)
-- [Goole Flutter 2 Cookbook by Simone Alessandria](https://github.com/goldcoders/Flutter/blob/master/Google%20Flutter%202%20Cookbook.pdf)
+- [Pragmatic Flutter by Prinyaka Tyagi](https://github.com/goldcoders/Flutter/blob/master/Pragmatic%20Flutter.pdf) 
+- [Google Flutter 2 Cookbook by Simone Alessandria](https://github.com/goldcoders/Flutter/blob/master/Google%20Flutter%202%20Cookbook.pdf)
 - [Modern App Development with Dart and Flutter 2 by Dieter Meiller](https://github.com/goldcoders/Flutter/blob/master/Modern%20App%20Development%20with%20Dart%20and%20Flutter%202%20A%20Comprehensive%20Introduction%20to%20Flutter%20by%20Meiller.pdf)
 
 
